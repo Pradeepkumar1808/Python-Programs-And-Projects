@@ -1,0 +1,6 @@
+{'id': 1, 'name': 'pradeep', 'department': 'cse'}
+{'id': 2, 'name': 'kishore', 'department': 'cse'}
+{'id': 3, 'name': 'elaks', 'department': 'cse'}
+{'id': 4, 'name': 'pradeep', 'department': 'cse'}
+{'id': 5, 'name': 'kishore', 'department': 'cse'}
+{'id': 6, 'name': 'elaks', 'department': 'cse'}
