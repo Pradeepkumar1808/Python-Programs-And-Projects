@@ -25,5 +25,5 @@ pip install -r requirements.txt
 ## 🚀 Run
 Open the notebook and run all cells:
 ```bash
-jupyter notebook Rank_1_Karan_Junega.ipynb
+jupyter notebook PradeepKumar'sChurn_Prediction_Model.ipynb
 ```
